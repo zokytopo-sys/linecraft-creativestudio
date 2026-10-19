@@ -1,2 +1,2 @@
 # linecraft-creativestudio
-personal web designe
+personal web design
